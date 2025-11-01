@@ -1,1 +1,1 @@
-# Migratory-Birds
+# Migratory-Birds This code counts the frequency of each bird type in the list `arr` and identifies the type(s) with the highest sightings. If multiple types have the same maximum count, it returns the smallest bird type number.
